@@ -504,7 +504,7 @@ def _publish_data(stream_handle: robothub_core.StreamHandle,
                 "clickable": True
             },
             "detection": {
-                "thickness": 1,
+                "thickness": 10,
                 "fill_transparency": 0.05,
                 "box_roundness": 0,
                 "color": [0, 255, 0],
